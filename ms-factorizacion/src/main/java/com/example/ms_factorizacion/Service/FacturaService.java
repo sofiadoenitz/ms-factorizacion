@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.ms_factorizacion.Client.PagoFeignClient;
-import com.example.ms_factorizacion.DTO.PagoDTO;
+import com.example.ms_factorizacion.Model.DTO.PagoDTO;
 import com.example.ms_factorizacion.Model.Factura;
 import com.example.ms_factorizacion.Repository.FacturaRepository;
 

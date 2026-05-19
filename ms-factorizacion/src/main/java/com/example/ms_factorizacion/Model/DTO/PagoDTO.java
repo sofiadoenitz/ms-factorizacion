@@ -1,4 +1,4 @@
-package com.example.ms_factorizacion.DTO;
+package com.example.ms_factorizacion.Model.DTO;
 
 import lombok.Data;
 
